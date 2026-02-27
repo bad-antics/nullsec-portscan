@@ -10,7 +10,7 @@ bad-antics, NullSec Framework, security scanner, Elixir security tools
 
 ### Lightning-Fast Async Port Scanner
 
-[![Discord](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnonAntics)
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![License](https://img.shields.io/badge/License-NPS--XXX-red?style=for-the-badge)](LICENSE)
 
@@ -84,7 +84,7 @@ For authorized security testing only.
 
 <div align="center">
 
-**[Discord](https://x.com/AnonAntics)** • **[GitHub](https://github.com/bad-antics)**
+**[Twitter](https://x.com/AnonAntics)** • **[GitHub](https://github.com/bad-antics)**
 
 *Made with 💀 by bad-antics*
 
